@@ -1,0 +1,25 @@
+ext {
+    android = [
+            compileSdkVersion: 29,
+            buildToolsVersion: "29.0.1",
+            minSdkVersion    : 16,
+            targetSdkVersion : 29,
+            versionCode      : 1,
+            versionName      : "1.0.0"
+    ]
+
+    dependVersion = [
+            appcompat           : "1.1.0",
+            okHttp              : "4.2.2",
+            gson                : "2.8.6",
+    ]
+
+//    baseDeps = [
+//            appcompat: "androidx.appcompat:appcompat:$dependVersion.appcompat",
+//            okHttp   : "com.squareup.okhttp3:okhttp:$dependVersion.okHttp",
+//            gson     : "com.google.code.gson:gson:$dependVersion.gson"
+//    ]
+
+    //base库
+//    baseLibs = baseDeps.values()
+}
