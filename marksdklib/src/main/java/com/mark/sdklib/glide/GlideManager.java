@@ -1,7 +1,6 @@
 package com.mark.sdklib.glide;
 
 import android.annotation.SuppressLint;
-import android.app.Application;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
@@ -28,7 +27,8 @@ public class GlideManager {
 
 
     /**
-     * 显示图片Imageview(1)
+     * (1)
+     * 显示图片Imageview
      *
      * @param context
      * @param errorimg
