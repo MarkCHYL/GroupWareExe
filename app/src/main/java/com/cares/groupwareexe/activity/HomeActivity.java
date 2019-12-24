@@ -17,9 +17,9 @@ import android.widget.TextView;
 
 import com.cares.groupwareexe.R;
 import com.cares.groupwareexe.activity.base.BaseActivity;
-import com.cares.groupwareexe.fragment.homeFragment.HomeFragment;
-import com.cares.groupwareexe.fragment.homeFragment.MessageFragment;
-import com.cares.groupwareexe.fragment.homeFragment.MineFragment;
+import com.cares.groupwareexe.fragment.home.HomeFragment;
+import com.cares.groupwareexe.fragment.home.MessageFragment;
+import com.cares.groupwareexe.fragment.home.MineFragment;
 import com.mark.sdklib.log.MarkLog;
 
 /**

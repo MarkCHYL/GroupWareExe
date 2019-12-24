@@ -1,4 +1,4 @@
-package com.cares.groupwareexe.fragment.homeFragment;
+package com.cares.groupwareexe.fragment.home;
 
 import android.os.Bundle;
 import android.view.View;
